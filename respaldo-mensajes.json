@@ -1,0 +1,30 @@
+[
+{
+  "model": "mensajes.mensaje",
+  "pk": 1,
+  "fields": {
+    "texto": "Primer mensaje en producción"
+  }
+},
+{
+  "model": "mensajes.mensaje",
+  "pk": 2,
+  "fields": {
+    "texto": "Mensaje de producción 1"
+  }
+},
+{
+  "model": "mensajes.mensaje",
+  "pk": 3,
+  "fields": {
+    "texto": "Mensaje de producción 2"
+  }
+},
+{
+  "model": "mensajes.mensaje",
+  "pk": 4,
+  "fields": {
+    "texto": "Mensaje de producción 3"
+  }
+}
+]
